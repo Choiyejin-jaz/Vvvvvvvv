@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>빈곤국 아동 인권 증진 캠페인</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>빈곤국 아동 인권 증진 캠페인</h1>
+</header>
+
+<nav>
+  <a href="#home">홈</a>
+  <a href="#about">정보</a>
+  <a href="#campaign">캠페인 참여</a>
+  <a href="#donate">기부</a>
+  <a href="#contact">연락처</a>
+</nav>
+
+<div class="container" id="home">
+  <h2>빈곤국 아동의 인권 보호를 위한 우리의 노력</h2>
+  <p>아동 인권을 증진하기 위해 함께 참여해주세요. 각국의 아동들이 기본적인 권리를 누릴 수 있도록 힘을 모읍시다.</p>
+</div>
+
+<div class="container" id="about">
+  <h2>빈곤국 아동의 인권 문제</h2>
+  <p>아동들은 교육, 의료, 보호의 기본적인 권리를 누려야 합니다. 하지만 전 세계 수백만 명의 아동들이 이러한 권리를 보장받지 못하고 있습니다.</p>
+</div>
+
+<div class="container" id="campaign">
+  <h2>캠페인 참여 방법</h2>
+  <p>학교 캠페인에 참여하거나, SNS에서 인권 문제를 알리는 활동에 함께 해주세요.</p>
+</div>
+
+<div class="container" id="donate">
+  <h2>기부</h2>
+  <p>빈곤국 아동을 돕기 위한 기부에 참여해주세요. 링크를 통해 기부 페이지로 이동할 수 있습니다.</p>
+</div>
+
+<div class="container" id="contact">
+  <h2>연락처</h2>
+  <p>궁금한 점이 있다면 문의해주세요. contact@childrights.org</p>
+</div>
+
+<footer>
+  <p>&copy; 2024 빈곤국 아동 인권 캠페인</p>
+</footer>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>빈곤국 아동 인권 증진 캠페인</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>빈곤국 아동 인권 증진 캠페인</h1>
+</header>
+
+<nav>
+  <a href="#home">홈</a>
+  <a href="#about">정보</a>
+  <a href="#campaign">캠페인 참여</a>
+  <a href="#donate">기부</a>
+  <a href="#contact">연락처</a>
+</nav>
+
+<div class="container" id="home">
+  <h2>빈곤국 아동의 인권 보호를 위한 우리의 노력</h2>
+  <p>아동 인권을 증진하기 위해 함께 참여해주세요. 각국의 아동들이 기본적인 권리를 누릴 수 있도록 힘을 모읍시다.</p>
+</div>
+
+<div class="container" id="about">
+  <h2>빈곤국 아동의 인권 문제</h2>
+  <p>아동들은 교육, 의료, 보호의 기본적인 권리를 누려야 합니다. 하지만 전 세계 수백만 명의 아동들이 이러한 권리를 보장받지 못하고 있습니다.</p>
+</div>
+
+<div class="container" id="campaign">
+  <h2>캠페인 참여 방법</h2>
+  <p>학교 캠페인에 참여하거나, SNS에서 인권 문제를 알리는 활동에 함께 해주세요.</p>
+</div>
+
+<div class="container" id="donate">
+  <h2>기부</h2>
+  <p>빈곤국 아동을 돕기 위한 기부에 참여해주세요. 링크를 통해 기부 페이지로 이동할 수 있습니다.</p>
+</div>
+
+<div class="container" id="contact">
+  <h2>연락처</h2>
+  <p>궁금한 점이 있다면 문의해주세요. contact@childrights.org</p>
+</div>
+
+<footer>
+  <p>&copy; 2024 빈곤국 아동 인권 캠페인</p>
+</footer>
+
+</body>
+</html>
